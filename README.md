@@ -4,6 +4,7 @@
 GET /users/:login    
 GET /users/:id   
 
-login从个人设置中查看  
+login从个人设置中查看，个人路径里面最后一部分是login信息    
+
 
 
